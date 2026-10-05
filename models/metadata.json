@@ -1,0 +1,6 @@
+{
+  "best_model": "Logistic Regression",
+  "selection_rule": "Highest mean 5-fold CV F1; precision used as tie-breaker.",
+  "random_seed": 42,
+  "test_size": 0.2
+}
